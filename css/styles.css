@@ -1,0 +1,213 @@
+#title {
+    background-color: #3aafa9;
+    padding-bottom: 80px;
+    padding-top: 50px;
+    color: #feffff;
+
+}
+
+#features {
+  padding-bottom: 110px;
+  padding-top: 150px;
+}
+
+
+
+
+h1 {
+  font-family: 'Montserrat';
+  padding-left: 200px;
+}
+
+h2 {
+  font-family: 'Montserrat'
+}
+
+/* Fordeler tekst */
+
+h3 {
+  font-family: 'Montserrat';
+  font-weight: bold;
+  line-height: 1.5rem;
+  font-size: 1.3rem;
+  color: black;
+}
+
+.fordeler-tekst {
+  color: #8f8f8f;
+  font-size: 1.1rem;
+  text-align: center;
+}
+
+.ikoner-fordeler {
+  font-size: 5rem;
+  text-align: center;
+  color: #2b7a78;
+}
+
+.ikoner-fordeler:hover {
+  color: #17252a;
+}
+
+/* Navigation Bar  */
+
+
+.navbar-brand {
+  font-style: normal;
+  font-weight: bolder;
+}
+.navn-logo {
+  padding-bottom: 50px;
+  padding-left: 70px;
+}
+
+.nav-item {
+  padding: 0px 18px;
+}
+
+.nav-link {
+  font-family: 'Montserrat';
+  font-style: light;
+  font-size: 1.0rem;
+}
+
+
+/* Knapper Overskrift */
+
+
+.buttons {
+  padding-left: 200px;
+  padding-top: 50px;
+}
+
+
+.btn:hover {
+  color: white !important;
+  background-color: #17252a !important;
+}
+
+/* Første Bilde */
+@media (max-width: 992px) {
+  #title {
+    text-align: center;
+    z-index: 0;
+  }
+
+  .it-bilde {
+    position: static;
+    visibility: hidden;
+
+  }
+
+
+}
+
+.it-bilde {
+  display: block;
+  margin-left: auto;
+  margin-right: 40%;
+  width: 60%;
+  border: 10px solid white;
+}
+
+.row {
+  align-items: center;
+}
+
+
+/* testimonial Section */
+#testimonials {
+  text-align: center;
+  background-color: #2b7a78;
+  color: white;
+}
+
+.carousel-item {
+  padding: 5% 15%;
+
+}
+
+.omtale-bilde {
+  width: 150px;
+  height: 150px;
+  border-radius: 10%;
+  margin: 20px;
+}
+
+
+/* Kunde data delen */
+
+#kunde-data {
+  text-align: center;
+  background-color: #2b7a78;
+  color: white;
+}
+
+.fordeler-info {
+  padding: 4% 15%;
+  font-family: 'Montserrat';
+  font-size: 1.5rem;
+}
+
+/* Priser og hva vi supporterer delen */
+#priser {
+  text-align: center;
+  padding: 2% 2% 2%;
+}
+
+.vi-tilbyr-tekst {
+  font-size: 2.5rem;
+  padding: 3% 3% 3%;
+  color: #17252a;
+}
+
+.support {
+  color: #2b7a78;
+}
+
+.support-pris {
+  font-size: 1.7rem;
+}
+
+
+
+/* Avsluttning og fornøyd garanti delen */
+#avsluttning {
+  background: #2b7a78;
+  padding: 4% 5% 5%;
+  text-align: center;
+}
+
+.fornøyd {
+  font-size: 2.5rem;
+  color: white;
+  padding-bottom: 50px;
+  padding-top: 50px;
+}
+
+/* Sosiale medier og Copyright delen */
+
+#kontakt-info {
+  background-color: #fff;
+  padding: 1% 5% 3%;
+  text-align: center;
+  font-size:1.5rem;
+}
+
+.følg-oss-logoer {
+  color: inherit;
+  text-decoration: none;
+}
+
+.følgOss {
+  font-size: 25px;
+  color: #2b7a78;
+  text-align: center;
+  padding-top: 40px;
+}
+
+.copyright {
+  padding-bottom: 50px;
+  text-align: center;
+  font-size: 0.9rem;
+}

@@ -1,0 +1,69 @@
+#bekreftet-nettsiden  {
+    background-color: #3aafa9;
+    padding-bottom: 10px;
+    padding-top: 40px;
+    color: #feffff;
+    text-align: center;
+
+}
+
+/* N&N IT Logo og øvre delen av siden  */
+
+.navn-logo {
+  padding-top: 10px;
+  padding-bottom: 50px;
+  padding-left: 85px;
+}
+
+.navbar-brand {
+  font-style: normal;
+  font-weight: bolder;
+}
+
+.nav-item {
+  padding: 0px 18px;
+}
+
+.takk {
+  font-family: 'Montserrat';
+  background-color: #3aafa9;
+  color: #feffff;
+  padding-bottom: 20px;
+  font-size: 70px;
+  padding-top: 50px;
+}
+
+.kontakter {
+  font-family: 'Montserrat';
+  background-color: #3aafa9;
+  color: #feffff;
+  padding-bottom: 50px;
+  font-size: 30px;
+}
+
+/* Sosiale medier og Copyright delen */
+
+#kontakt-info {
+  background-color: #fff;
+  padding: 1% 5% 3%;
+  text-align: center;
+  font-size:1.5rem;
+}
+
+.følg-oss-logoer {
+  color: inherit;
+  text-decoration: none;
+}
+
+.følgOss {
+  font-size: 25px;
+  color: #2b7a78;
+  text-align: center;
+  padding-top: 40px;
+}
+
+.copyright {
+  padding-bottom: 50px;
+  text-align: center;
+  font-size: 0.9rem;
+}

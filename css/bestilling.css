@@ -1,0 +1,94 @@
+#bestilling-nettsiden  {
+    background-color: #3aafa9;
+    padding-bottom: 10px;
+    padding-top: 40px;
+    color: #feffff;
+
+}
+
+/* N&N IT Logo og øvre delen av siden  */
+
+.navn-logo {
+  padding-top: 10px;
+  padding-bottom: 50px;
+  padding-left: 85px;
+}
+
+.navbar-brand {
+  font-style: normal;
+  font-weight: bolder;
+}
+
+.nav-item {
+  padding: 0px 18px;
+}
+
+h1 {
+  font-family: 'Montserrat';
+  padding-left: 200px;
+  background-color: #3aafa9;
+  color: #feffff;
+  padding-bottom: 50px;
+
+}
+
+.overskrift {
+  font-size: 3.5rem;
+}
+
+/* Priser og hva vi supporterer */
+
+#priser-info {
+  text-align: center;
+  padding: 2% 11% 2%;
+}
+
+.support {
+  color: #2b7a78;
+}
+
+/* Utfyllingsskjema delen */
+
+#info {
+  padding: 3% 25% 2%;
+  font-size: 1rem;
+  background-color: #3aafa9;
+
+}
+
+
+/* Nederste delen, send henvendelse knappen */
+
+
+.btn:hover {
+  color: white !important;
+  background-color: #17252a !important;
+}
+
+
+/* Copyright delen og linker til sosiale medier */
+#kontakt-info {
+  background-color: #fff;
+  padding: 1% 5% 3%;
+  text-align: center;
+  font-size:1.5rem;
+}
+
+.følg-oss-logoer {
+  color: inherit;
+  text-decoration: none;
+}
+
+.følgOss {
+  font-size: 25px;
+  color: #2b7a78;
+  text-align: center;
+  padding-top: 40px;
+}
+
+.copyright {
+  padding-bottom: 50px;
+  text-align: center;
+  font-size: 0.9rem;
+}
+/* Popup vindu når man trykker på Send Henvendelse knappen */
