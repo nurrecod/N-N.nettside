@@ -98,8 +98,16 @@ h3 {
     visibility: hidden;
 
   }
+    
+   h1 {
+    text-align: center;
+    padding-left: 0px;
+  }
 
-
+  .buttons {
+    padding-left: 0px;
+    text-align: center;
+  }
 }
 
 .it-bilde {
